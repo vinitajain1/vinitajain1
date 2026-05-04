@@ -33,8 +33,8 @@ I design and build backend systems that handle millions of users and process hig
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vinita-jain-v1/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-red)](mailto:vinitajain319@gmail.com)
 
 ---
 
