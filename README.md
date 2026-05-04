@@ -13,6 +13,9 @@ I design and build backend systems that handle millions of users and process hig
 - **Solve complex problems** — from real-time inventory optimization to cross-platform mobile apps
 - **Leverage AI strategically** — using Cursor, Claude, and custom MCP servers to accelerate development
 
+## 💻 Currently learning and building
+InventoryGPT:https://github.com/vinitajain1/InventoryGPT
+
 ## 💻 Tech Stack
 
 **Languages:** Python • Java • JavaScript • TypeScript  
