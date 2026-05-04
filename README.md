@@ -15,6 +15,7 @@ I design and build backend systems that handle millions of users and process hig
 
 ## 💻 Currently learning and building
 InventoryGPT:https://github.com/vinitajain1/InventoryGPT
+Reading: https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
 
 ## 💻 Tech Stack
 
