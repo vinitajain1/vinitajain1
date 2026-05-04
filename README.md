@@ -16,10 +16,15 @@ I design and build backend systems that handle millions of users and process hig
 ## 💻 Tech Stack
 
 **Languages:** Python • Java • JavaScript • TypeScript  
+
 **Backend:** FastAPI • PostgreSQL • Cassandra • Flask • Spring Boot • Node.js
+
 **Frontend:** React • React Native • Redux  
+
 **Cloud & DevOps:** AWS • Kubernetes • Docker • CI/CD  
+
 **AI Tools:** Cursor • Claude • FastMCP • RAG • LangChain 
+
 **Data:** SQL • NoSQL • Kafka • OpenSearch • Redis
 
 ## 📫 Let's Connect
